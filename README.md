@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janaki Ram Pedireddi
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Java Full Stack Development
 - 💞️ I’m looking to find a job oppurtunity to use my skills and enhnace them!
 - 📫 You can reach me at janakirampedireddi@gmail.com
 
